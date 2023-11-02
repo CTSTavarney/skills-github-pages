@@ -1,5 +1,4 @@
 ---
-title: This is my blogo.
-Wow!
+title: This is my blogo. Wow!
 ---
 
